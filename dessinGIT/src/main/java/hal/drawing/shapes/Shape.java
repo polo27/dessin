@@ -4,8 +4,7 @@ package hal.drawing.shapes;
  * Une figure.
  * 
  * @version jan. 2013
- * @author Stéphane Lopes
- * 
+ * @author Stéphane Lopes modif p_a
  */
 public abstract class Shape {
 	/**
